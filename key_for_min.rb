@@ -8,6 +8,7 @@ def key_for_min_value(name_hash)
     if y < array_1[0] then
       array_1 = y
       lowest_key = x
+      puts x
     end
   end
     lowest_key
